@@ -24,3 +24,6 @@ Third Test File - but changed again my friend!!!!
 First Change
 Second Change
 Third Change
+
+Create Merge
+First
